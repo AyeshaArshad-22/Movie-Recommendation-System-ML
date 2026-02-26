@@ -45,5 +45,6 @@ Plaintext
 ├── movie_predictions.csv       # Exported results (CSV format)
 ├── requirements.txt            # List of Python dependencies
 └── README.md                   # Project documentation
+
 📜 License
 This project is open-source and available under the MIT License
